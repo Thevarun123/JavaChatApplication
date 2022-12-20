@@ -1,0 +1,2 @@
+heading.setHorizontalTextPosition(SwingConstants.CENTER);
+        
